@@ -1,0 +1,6 @@
+DATASETS:
+  ROOT: "C:\\Users\\a\\softs\\kitti"
+  TRAIN_SPLIT: "train"
+  EVAL_SPLIT: "val"
+  TEST_SPLIT: "test"
+  DETECT_CLASSES: ("Car", "Cyclist", "Pedestrian")
